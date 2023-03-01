@@ -23,7 +23,7 @@ const cities = {
   Ternopil: "Тернопіль",
   Kropyvnytskyi: "Кропивницький",
   Kremenchuk: "Кременчук",
-  Lutsk: "Луцьк"
+  Lutsk: "Луцьк",
 };
 
 
